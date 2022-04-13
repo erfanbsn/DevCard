@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\project\\programming\\dotNetCore\\DevCard\\Devcard_project\\Devcard_MVC\\Devcard_MVC.csproj": {}
+    "H:\\project\\programming\\dotNetCore\\DevCard\\DevCard_project\\Devcard_MVC\\Devcard_MVC.csproj": {}
   },
   "projects": {
-    "H:\\project\\programming\\dotNetCore\\DevCard\\Devcard_project\\Devcard_MVC\\Devcard_MVC.csproj": {
+    "H:\\project\\programming\\dotNetCore\\DevCard\\DevCard_project\\Devcard_MVC\\Devcard_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\project\\programming\\dotNetCore\\DevCard\\Devcard_project\\Devcard_MVC\\Devcard_MVC.csproj",
+        "projectUniqueName": "H:\\project\\programming\\dotNetCore\\DevCard\\DevCard_project\\Devcard_MVC\\Devcard_MVC.csproj",
         "projectName": "Devcard_MVC",
-        "projectPath": "H:\\project\\programming\\dotNetCore\\DevCard\\Devcard_project\\Devcard_MVC\\Devcard_MVC.csproj",
+        "projectPath": "H:\\project\\programming\\dotNetCore\\DevCard\\DevCard_project\\Devcard_MVC\\Devcard_MVC.csproj",
         "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "H:\\project\\programming\\dotNetCore\\DevCard\\Devcard_project\\Devcard_MVC\\obj\\",
+        "outputPath": "H:\\project\\programming\\dotNetCore\\DevCard\\DevCard_project\\Devcard_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
